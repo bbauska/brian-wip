@@ -3,10 +3,13 @@ brian-wip description - pulling up sample code and going from there.
 
 :sunny:
 
-<table>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Universal Selector</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<table style="width:500px;">
   <thead>
     <tr>
-	  <th width="30%">Universal Selector</th>
+	  <th width="100">Universal Selector</th>
 	</tr>
   </thead>
   <tbody>
