@@ -6,6 +6,7 @@ brian-wip description - pulling up sample code and going from there.
 
 <h3>border-color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inh. N Anim. Y</h3>
 
+<h3>border-image &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inh. N Anim. P</h3>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><div id="left">border-image</div><div align="right">Inh. N Anim. P</div></h3>
