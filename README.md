@@ -3,21 +3,11 @@ brian-wip description - pulling up sample code and going from there.
 
 :sunny:
 
-
-<h3>border-color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inh. N Anim. Y</h3>
-
-<h3>border-image &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inh. N Anim. P</h3>
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><div id="left">border-image</div><div align="right">Inh. N Anim. P</div></h3>
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 <table>
   <thead>
     <tr>
-	  <th>border-image</th>
-	  <th>Inh. N Anim. P</th>
+	  <th> border-image </th>
+	  <th> Inh. N Anim. P </th>
 	</tr>
   </thead>
   <tbody>
@@ -64,4 +54,3 @@ aside {border-image: url(asides.png)
 	</tr>
   </tbody>
 </table>
-
