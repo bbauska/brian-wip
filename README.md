@@ -33,7 +33,7 @@ brian-wip description - pulling up sample code and going from there.
 	  <td><b>Animatable</b></td>
 	  <td>Refer to individual border-image properties to see which are animatable.</td>
 	</tr>
-	  <td><b>Description</b></td>
+	  <td><b>Description    </b></td>
 	  <td>A shorthand property that defines the source, slicing pattern, border width, degree of extension,  
    and repetition of an image-based border. The syntax is somewhat unusual compared to the rest of CSS, so 
    take extra time with it. For example, three of the five values possible are slash-separated and must be 
