@@ -6,7 +6,7 @@ brian-wip description - pulling up sample code and going from there.
 <table style="width:500px;">
   <thead>
     <tr>
-	  <th width="200">Universal Selector</th>
+	  <th width="200"><h3>Universal Selector</h3></th>
 	</tr>
   </thead>
   <tbody>
@@ -24,6 +24,7 @@ brian-wip description - pulling up sample code and going from there.
 	</tr>
   </tbody>
 </table>
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Type Selector</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
