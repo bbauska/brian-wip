@@ -3,9 +3,6 @@ brian-wip description - pulling up sample code and going from there.
 
 :sunny:
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Universal Selector</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <table style="width:500px;">
   <thead>
     <tr>
@@ -15,11 +12,11 @@ brian-wip description - pulling up sample code and going from there.
   <tbody>
     <tr>
 	  <td><b>Pattern</b></td>
-	  <td>&ast;</td>
+	  <td><p>&ast;</p></td>
 	</tr>
 	<tr>
 	  <td><b>Description</b></td>
-	  <td>Matches any element name in the document's language. If a rule does not have an explicit selector, the universal selector is inferred.</td>
+	  <td><p>Matches any element name in the document's language. If a rule does not have an explicit selector, the universal selector is inferred.</p></td>
     </tr>
 	<tr>
 	  <td><b>Examples</b></td>
