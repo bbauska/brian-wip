@@ -14,6 +14,12 @@ brian-wip description - pulling up sample code and going from there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <table>
+  <thead>
+    <tr>
+	  <th>border-image</th>
+	  <th>Inh. N Anim. P</th>
+	</tr>
+  </thead>
   <tbody>
     <tr>
 	  <td><b>Values</b></td>
@@ -58,3 +64,4 @@ aside {border-image: url(asides.png)
 	</tr>
   </tbody>
 </table>
+
