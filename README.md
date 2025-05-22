@@ -3,7 +3,8 @@ brian-wip description - pulling up sample code and going from there.
 
 :sunny:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><div id="left">border-image</div><div id="right">Inh. N Anim. P</div></h3>
+<h3><div id="left">border-image</div><div align="right">Inh. N Anim. P</div></h3>
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <table>
