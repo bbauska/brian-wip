@@ -6,6 +6,29 @@ brian-wip description - pulling up sample code and going from there.
 <table>
   <thead>
     <tr>
+	  <th>Universal Selector</th>
+	</tr>
+  </thead>
+  <tbody>
+    <tr>
+	  <td><b>Pattern</b></td>
+	  <td>&ast;</td>
+	</tr>
+	<tr>
+	  <td><b>Description</b></td>
+	  <td>Matches any element name in the document's language. If a rule does not have an explicit selector, the universal selector is inferred.</td>
+    </tr>
+	<tr>
+	  <td><b>Examples</b></td>
+	  <td><pre>&ast; {color: red }<br>div &ast; p {color: blue;}</pre></td>
+	</tr>
+  </tbody>
+</table>
+
+
+<table>
+  <thead>
+    <tr>
 	  <th> border-image </th>
 	  <th> Inh. N Anim. P </th>
 	</tr>
