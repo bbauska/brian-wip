@@ -9,7 +9,7 @@ brian-wip description - pulling up sample code and going from there.
 <table style="width:500px;">
   <thead>
     <tr>
-	  <th width="100">Universal Selector</th>
+	  <th width="200">Universal Selector</th>
 	</tr>
   </thead>
   <tbody>
